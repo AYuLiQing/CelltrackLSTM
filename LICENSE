@@ -1,36 +1,31 @@
-MIT License
+Polyform Noncommercial License 1.0
 
-Copyright (c) 2026 AYuLiQing
+Acceptance
+By using the Software, you agree to this License. If you do not agree, you may not use the Software.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Definitions
+1. "Commercial Purpose" means any activity intended for or directed toward commercial advantage or monetary compensation, including but not limited to:
+   (a) Using the Software within a business, company, institution, or organization for internal commercial operations;
+   (b) Modifying, deriving, reorganizing the Software to apply for patents, software copyrights, or other intellectual property rights;
+   (c) Using the Software to complete and publish academic papers, graduation theses, dissertations, or other formal academic achievement publications for degree assessment, academic reward, project evaluation;
+   (d) Selling, licensing, distributing, or hosting the Software for a fee;
+   (e) Offering products, services, or training that incorporate the Software in exchange for payment.
+2. "Software" means all code, files, documentation, algorithms, models, and materials made available under this License.
+3. "Copyright Holder" means 2026 AYuLiQing.
 
-1. The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-2. The following restrictive terms shall prevail over any conflicting language above:
-   a. No individual, institution or enterprise may use, modify, reorganize or derive
-      any part of this Software to apply for invention patents, utility model patents,
-      software copyrights or any other intellectual property rights without the
-      explicit written authorization of the copyright owner.
-   b. No individual, institution or enterprise may use, modify or derive this Software
-      to complete and publish academic papers, graduation theses, dissertations,
-      conference articles or any other academic achievement publications without the
-      explicit written authorization of the copyright owner.
-   c. Any commercial use, commercial trial, commercial service delivery, paid
-      secondary development based on this Software is strictly prohibited without
-      written authorization from the copyright owner.
-3. Any violation of clause 2 automatically revokes all rights granted by this License,
-   and the violator shall immediately delete all copies of the Software in their possession,
-   and bear corresponding intellectual property infringement liabilities.
+Allowed Uses
+You may use, copy, modify, and distribute the Software solely for non-commercial, personal, educational, non-achievement research purposes, provided:
+(a) You retain a complete copy of this License with all distributions;
+(b) You do not use the Software for any Commercial Purpose as defined above.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Prohibited Uses
+Any Commercial Purpose as defined above is strictly prohibited without a separate written commercial license issued by the Copyright Holder.
+
+Termination
+This License automatically terminates if you violate any term. Upon termination, you must cease all use and delete all copies of the Software in your possession or control.
+
+Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+Limitation of Liability
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS LICENSE OR THE USE OF THE SOFTWARE.
